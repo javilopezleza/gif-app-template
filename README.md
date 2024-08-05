@@ -1,4 +1,4 @@
-# Heroes-SPA 
+# GifApp
 
 This project was bootstrapped with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) and is intended for development with React. Below are detailed instructions on how to set up and manage the project.
 
@@ -25,12 +25,12 @@ If these commands do not display version numbers, install Node.js from nodejs.or
 1. Clone the repository from GitHub to your local machine:
 
 ```bash
-git clone https://github.com/javilopezleza/heroes-spa-template
+git clone https://github.com/javilopezleza/gif-app-template
 ```
 
 2. Navigate into the project directory:
 ```bash
-cd heroes-spa-template
+cd gif-app-template
 ```
 
 ## Starting Development Server
