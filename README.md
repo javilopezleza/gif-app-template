@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) and is intended for development with React. Below are detailed instructions on how to set up and manage the project.
 
-## Before Install
+## Before Installation
 
 To get started with this React project, follow these steps:
 
@@ -22,20 +22,20 @@ If these commands do not display version numbers, install Node.js from nodejs.or
 
 ## Installation
 
-Clone the repository from GitHub to your local machine:
+1. Clone the repository from GitHub to your local machine:
 
 ```bash
 git clone https://github.com/javilopezleza/gif-app-template
 ```
 
-Navigate into the p`roject directory:
+2. Navigate into the project directory:
 ```bash
 cd gif-app-template
 ```
 
-To start the development server and run your React application locally:
+## Starting Development Server
 
-Install project dependencies if you haven’t done so already:
+3. Install project dependencies if you haven’t done so already:
 
 ```bash
 npm install
@@ -45,7 +45,7 @@ or, if you prefer using Yarn:
 ```bash
 yarn install
 ```
-Start the development server:
+4. Start the development server:
 ```bash
 npm start
 ```
@@ -54,4 +54,10 @@ or:
 ```bash
 yarn start
 ```
-This command starts a local server at http://localhost:3000. The application will automatically reload if you make changes to the source files. You should see the React application running in your browser.
+This command starts a local server at [http://localhost:3000](http://localhost:3000). The application will automatically reload if you make changes to the source files. You should see the React application running in your browser.
+
+## Further Instructions
+
+For more information on how to develop and deploy the application, refer to the official [Create React App documentation](https://create-react-app.dev/) and the [React documentation](https://react.dev/).
+
+Feel free to explore the repository and modify the application as needed for your own use case.
